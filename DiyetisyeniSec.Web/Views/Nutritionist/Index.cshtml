@@ -1,0 +1,28 @@
+﻿@model List<DiyetisyeniSec.Domain.Nutritionist.Nutritionist>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Diyetisyenler</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Diyetisyeni Adı</th>
+            <th>Şehri</th>
+            <th>Tecrübe</th>
+            <th>Universite</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var nutritionist in Model)
+        {
+         <tr>
+             <td>@nutritionist.Name</td>
+             <td>@nutritionist.City</td>
+             <td>@nutritionist.Experience</td>
+             <td>@nutritionist.UniversityName</td>
+         </tr>   
+        }
+    </tbody>
+</table>

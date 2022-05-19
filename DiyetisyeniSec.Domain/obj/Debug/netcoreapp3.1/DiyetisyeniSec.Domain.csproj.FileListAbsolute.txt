@@ -1,0 +1,10 @@
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.deps.json
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.dll
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.pdb
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.csproj.AssemblyReference.cache
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.AssemblyInfoInputs.cache
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.AssemblyInfo.cs
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.csproj.CoreCompileInputs.cache
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.dll
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Domain\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.pdb

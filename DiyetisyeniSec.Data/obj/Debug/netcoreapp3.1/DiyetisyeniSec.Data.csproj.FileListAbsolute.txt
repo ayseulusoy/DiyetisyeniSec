@@ -1,0 +1,16 @@
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Data.deps.json
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Data.runtimeconfig.json
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Data.runtimeconfig.dev.json
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Data.dll
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Data.pdb
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.dll
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\bin\Debug\netcoreapp3.1\DiyetisyeniSec.Domain.pdb
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.csproj.AssemblyReference.cache
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.AssemblyInfoInputs.cache
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.AssemblyInfo.cs
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.csproj.CoreCompileInputs.cache
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.csproj.CopyComplete
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.dll
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.pdb
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Data\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Data.genruntimeconfig.cache
