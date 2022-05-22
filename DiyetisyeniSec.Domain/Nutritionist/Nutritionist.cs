@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
 
 namespace DiyetisyeniSec.Domain.Nutritionist
 {
@@ -16,10 +14,13 @@ namespace DiyetisyeniSec.Domain.Nutritionist
         public string Name { get; set; }
         //false erkek true kadın
         public bool Gender { get; set; }
+
         [Required]
         public string City { get; set; }
+
         [Range(2, 80, ErrorMessage = "2 yılın altında kayıt yapılamaz.")]
         public byte Experience { get; private set; }
+
         [Required(ErrorMessage = "Besenme ve Diyetik diploması zorunludur.")]
         public string UniversityName { get; set; }
         #endregion
