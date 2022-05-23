@@ -12,6 +12,7 @@
             <th>Şehri</th>
             <th>Tecrübe</th>
             <th>Universite</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -22,6 +23,8 @@
              <td>@nutritionist.City</td>
              <td>@nutritionist.Experience</td>
              <td>@nutritionist.UniversityName</td>
+             <td><a asp-controller="Nutritionist" asp-action="Edit" asp-route-id="@nutritionist.Id">Düzenle</a></td>
+             <td><a asp-controller="Nutritionist" asp-action="Delete" asp-route-id="@nutritionist.Id">Sil</a></td>
          </tr>   
         }
     </tbody>
