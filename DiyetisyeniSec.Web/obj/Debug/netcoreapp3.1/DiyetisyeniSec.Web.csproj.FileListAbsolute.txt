@@ -382,3 +382,4 @@ D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Web\bin\Debug\netcoreapp3.1\zh-Hans\
 D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Web\obj\Debug\netcoreapp3.1\DiyetisyeniSec.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Web\obj\Debug\netcoreapp3.1\Razor\Views\Nutritionist\Index.cshtml.g.cs
+D:\SanProject\DiyetisyeniSec\DiyetisyeniSec.Web\obj\Debug\netcoreapp3.1\Razor\Views\Nutritionist\Create.cshtml.g.cs

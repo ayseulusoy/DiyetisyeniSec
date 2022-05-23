@@ -1,0 +1,53 @@
+﻿@model DiyetisyeniSec.Domain.Nutritionist.Nutritionist
+<form>
+    <h1>
+        Diyetisyeni Oluştur
+    </h1>
+    <!--Tüm hataları özet olarak yukarda da görmemizi sağlar-->
+    <div asp-validation-summary="All"> 
+
+    </div>
+
+    <div class="girisAlani">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div class="girisAlani">
+        <label asp-for="City"></label>
+        <input asp-for="City" />
+        <span asp-validation-for="City"></span>
+    </div>
+
+    <div class="girisAlani">
+        <label asp-for="UniversityName"></label>
+        <input asp-for="UniversityName" />
+        <span asp-validation-for="UniversityName"></span>
+    </div>
+
+    <div class="girisAlani">
+        <label asp-for="Experience"></label>
+        <input asp-for="Experience" />
+        <span asp-validation-for="Experience"></span>
+    </div>
+
+    <div class="girisAlani">
+        <label asp-for="WebsiteURL"></label>
+        <input asp-for="WebsiteURL" />
+        <span asp-validation-for="WebsiteURL"></span>
+    </div>
+
+    <button class="kaydetmeButonu" type="submit">Kaydet</button>
+    <button class="kaydetmeButonu" type="reset">Reset</button>
+    <a asp-controller="Nutritionist" asp-action="Index">Listeye Geri Dön</a>
+
+</form>
+@*
+    Hatalar sunucuya gitmez bu kod sayesinde Anlık olarak gerçekleşir kontroller
+*@
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"></partial>
+    }
+}

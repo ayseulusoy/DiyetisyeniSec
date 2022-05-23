@@ -10,7 +10,7 @@ namespace DiyetisyeniSec.Domain.Nutritionist
 
         #region Basic Info
         [Required]
-        [StringLength(50, ErrorMessage = "Isminiz 50 karakterden uzun olamaz.")]
+        [MaxLength(50, ErrorMessage = "Isminiz 50 karakterden uzun olamaz.")]
         public string Name { get; set; }
         //false erkek true kadın
         public bool Gender { get; set; }
@@ -19,7 +19,7 @@ namespace DiyetisyeniSec.Domain.Nutritionist
         public string City { get; set; }
 
         [Range(2, 80, ErrorMessage = "2 yılın altında kayıt yapılamaz.")]
-        public byte Experience { get; private set; }
+        public byte Experience { get;  set; }
 
         [Required(ErrorMessage = "Besenme ve Diyetik diploması zorunludur.")]
         public string UniversityName { get; set; }
@@ -38,6 +38,12 @@ namespace DiyetisyeniSec.Domain.Nutritionist
         public bool IsEducationConfirmed { get; set; } = false;
 
         //deneyim kısmını daha kontrollu yaptık böylece kodla bile değişirmek olmayacak.
+
+        /// <summary>
+        /// Verilen tecrübenin atamasını sağlar
+        /// </summary>
+        /// <param name="experience"> Deneyim </param>
+        /// <exception cref="ArgumentException"></exception>
         public void SetExperience(byte experience)
         {
             if (experience <= 2)

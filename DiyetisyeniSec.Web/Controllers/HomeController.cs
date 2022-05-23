@@ -25,6 +25,7 @@ namespace DiyetisyeniSec.Web.Controllers
         public IActionResult Index()
         {
             //veri tabanına yeni kayıt ekledik
+            /*
             Nutritionist newNutritionist = new Nutritionist
             {
                 Name = "Haydar Tuzun",
@@ -37,6 +38,7 @@ namespace DiyetisyeniSec.Web.Controllers
 
             _context.Nutritionists.Add(newNutritionist);
             _context.SaveChanges();
+            */
             return View();
         }
 
